@@ -1,0 +1,10 @@
+D:\un\Чисельні методи\лр5\Simpsons_3.8_rule\bin\Debug\Simpsons_3.8_rule.exe.config
+D:\un\Чисельні методи\лр5\Simpsons_3.8_rule\bin\Debug\Simpsons_3.8_rule.exe
+D:\un\Чисельні методи\лр5\Simpsons_3.8_rule\bin\Debug\Simpsons_3.8_rule.pdb
+D:\un\Чисельні методи\лр5\Simpsons_3.8_rule\obj\Debug\Simpsons_3.8_rule.csprojAssemblyReference.cache
+D:\un\Чисельні методи\лр5\Simpsons_3.8_rule\obj\Debug\Simpsons_3._8_rule.Form1.resources
+D:\un\Чисельні методи\лр5\Simpsons_3.8_rule\obj\Debug\Simpsons_3._8_rule.Properties.Resources.resources
+D:\un\Чисельні методи\лр5\Simpsons_3.8_rule\obj\Debug\Simpsons_3.8_rule.csproj.GenerateResource.cache
+D:\un\Чисельні методи\лр5\Simpsons_3.8_rule\obj\Debug\Simpsons_3.8_rule.csproj.CoreCompileInputs.cache
+D:\un\Чисельні методи\лр5\Simpsons_3.8_rule\obj\Debug\Simpsons_3.8_rule.exe
+D:\un\Чисельні методи\лр5\Simpsons_3.8_rule\obj\Debug\Simpsons_3.8_rule.pdb
